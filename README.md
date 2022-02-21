@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aRc-rAy
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on android projects
+- 👀 Interested in android development
+- 🌱 Currently learning android
+- 💞️ I'm looking to collaborate on android projects
 
 
 <!---
